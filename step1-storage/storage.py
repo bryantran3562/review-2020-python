@@ -27,16 +27,16 @@ if __name__ == '__main__':
 
     print()
     print("========================================================")
-    print("Basic Array,Tuple,Dict storage:")
+    print("Basic List,Tuple,Dict storage:")
     print("========================================================")
 
-    myArray = [1,2,3]
+    myList = [1,2,3]
 
     myTuple = (4,5,6)
 
     myDict = {"name":"trong","age":24}
 
-    for item in myArray:
+    for item in myList:
         print(item)
 
     for item in myTuple:
