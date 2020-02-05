@@ -44,3 +44,8 @@ if __name__ == '__main__':
 
     for k,v in myDict.items():
         print(k,v)
+
+    # print(dir(myList))
+    #BT - You can not change the value of the tuple. But you can convert it to List and change it.
+    #     You also can not add more item to the tuple.
+    #print(dir(myTuple))
