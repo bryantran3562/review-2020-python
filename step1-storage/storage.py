@@ -49,3 +49,4 @@ if __name__ == '__main__':
     #BT - You can not change the value of the tuple. But you can convert it to List and change it.
     #     You also can not add more item to the tuple.
     #print(dir(myTuple))
+    print(help(myDict))
