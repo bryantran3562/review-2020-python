@@ -11,3 +11,8 @@ if __name__ == '__main__':
 
     for k,v in mydict.items():
         print(k,v)
+        
+    my_array = [1,2,3,4,5]
+    
+    for i, item in enumerate(my_array):
+        print(i, item)
