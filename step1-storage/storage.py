@@ -31,7 +31,9 @@ if __name__ == '__main__':
     print("========================================================")
 
     #####################################################################
-    # BT - You can not assign an element to an array using [] index
+    # BT - You can not add an item to the list using [] index method. You
+    #      must use - append function to add a new element to a list or
+    #      array.
     #####################################################################
     myList = []
 
