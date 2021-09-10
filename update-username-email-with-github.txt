@@ -1,0 +1,15 @@
+G:\2021\review-2020-python>git commit -m "updated 9-9-21"
+[master 02fc9f3] updated 9-9-21
+ Committer: bryantran3562 <BTran@multitech.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
